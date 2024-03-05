@@ -1,0 +1,474 @@
+Character: Xianyun
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Xianyun_Icon.png/revision/latest/scale-to-width-down/185?cb=20240131020302
+
+Character: Gaming
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/7/77/Gaming_Icon.png/revision/latest/scale-to-width-down/185?cb=20240131020313
+
+Character: Chevreuse
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Chevreuse_Icon.png/revision/latest/scale-to-width-down/185?cb=20231225195348
+
+Character: Navia
+Rarity: 5 Stars
+Weapon: Claymore
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Navia_Icon.png/revision/latest/scale-to-width-down/185?cb=20231220022117
+
+Character: Furina
+Rarity: 5 Stars
+Weapon: Sword
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Furina_Icon.png/revision/latest/scale-to-width-down/185?cb=20231108030656
+
+Character: Charlotte
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Charlotte_Icon.png/revision/latest/scale-to-width-down/185?cb=20231108030544
+
+Character: Wriothesley
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Wriothesley_Icon.png/revision/latest/scale-to-width-down/185?cb=20231017103145
+
+Character: Neuvillette
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png/revision/latest/scale-to-width-down/185?cb=20230927021051
+
+Character: Freminet
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Freminet_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215093001
+
+Character: Lyney
+Rarity: 5 Stars
+Weapon: Bow
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png/revision/latest/scale-to-width-down/185?cb=20230816045203
+
+Character: Lynette
+Rarity: 4 Stars
+Weapon: Sword
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png/revision/latest/scale-to-width-down/185?cb=20230816051019
+
+Character: Kirara
+Rarity: 4 Stars
+Weapon: Sword
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png/revision/latest/scale-to-width-down/185?cb=20230718042457
+
+Character: Baizhu
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091730
+
+Character: Kaveh
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png/revision/latest/scale-to-width-down/185?cb=20230502113258
+
+Character: Mika
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png/revision/latest/scale-to-width-down/185?cb=20230321101835
+
+Character: Dehya
+Rarity: 5 Stars
+Weapon: Claymore
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092328
+
+Character: Alhaitham
+Rarity: 5 Stars
+Weapon: Sword
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091456
+
+Character: Yaoyao
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png/revision/latest/scale-to-width-down/185?cb=20230123150446
+
+Character: Wanderer
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png/revision/latest/scale-to-width-down/185?cb=20221207034209
+
+Character: Faruzan
+Rarity: 4 Stars
+Weapon: Bow
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092917
+
+Character: Layla
+Rarity: 4 Stars
+Weapon: Sword
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png/revision/latest/scale-to-width-down/185?cb=20221118140544
+
+Character: Nahida
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png/revision/latest/scale-to-width-down/185?cb=20221102030809
+
+Character: Nilou
+Rarity: 5 Stars
+Weapon: Sword
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png/revision/latest/scale-to-width-down/185?cb=20221014102540
+
+Character: Cyno
+Rarity: 5 Stars
+Weapon: Polearm
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092240
+
+Character: Candace
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092140
+
+Character: Dori
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092725
+
+Character: Tighnari
+Rarity: 5 Stars
+Weapon: Bow
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png/revision/latest/scale-to-width-down/185?cb=20220824024817
+
+Character: Collei
+Rarity: 4 Stars
+Weapon: Bow
+Element: Dendro
+https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092218
+
+Character: Shikanoin Heizou
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png/revision/latest/scale-to-width-down/185?cb=20220719163112
+
+Character: Kuki Shinobu
+Rarity: 4 Stars
+Weapon: Sword
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png/revision/latest/scale-to-width-down/185?cb=20220605061801
+
+Character: Yelan
+Rarity: 5 Stars
+Weapon: Bow
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png/revision/latest/scale-to-width-down/185?cb=20220601033118
+
+Character: Kamisato Ayato
+Rarity: 5 Stars
+Weapon: Sword
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png/revision/latest/scale-to-width-down/185?cb=20220601033710
+
+Character: Yae Miko
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png/revision/latest/scale-to-width-down/185?cb=20220216025931
+
+Character: Shenhe
+Rarity: 5 Stars
+Weapon: Polearm
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png/revision/latest/scale-to-width-down/185?cb=20220210034241
+
+Character: Yun Jin
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png/revision/latest/scale-to-width-down/185?cb=20220316025919
+
+Character: Arataki Itto
+Rarity: 5 Stars
+Weapon: Claymore
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091612
+
+Character: Gorou
+Rarity: 4 Stars
+Weapon: Bow
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png/revision/latest/scale-to-width-down/185?cb=20211126224331
+
+Character: Thoma
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png/revision/latest/scale-to-width-down/185?cb=20211014011046
+
+Character: Sangonomiya Kokomi
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png/revision/latest/scale-to-width-down/185?cb=20210921103819
+
+Character: Raiden Shogun
+Rarity: 5 Stars
+Weapon: Polearm
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png/revision/latest/scale-to-width-down/185?cb=20220316020439
+
+Character: Aloy
+Rarity: 5 Stars
+Weapon: Bow
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Aloy_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091525
+
+Character: Kujou Sara
+Rarity: 4 Stars
+Weapon: Bow
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png/revision/latest/scale-to-width-down/185?cb=20220210040844
+
+Character: Yoimiya
+Rarity: 5 Stars
+Weapon: Bow
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png/revision/latest/scale-to-width-down/185?cb=20220214235604
+
+Character: Sayu
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png/revision/latest/scale-to-width-down/185?cb=20210810101044
+
+Character: Kamisato Ayaka
+Rarity: 5 Stars
+Weapon: Sword
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png/revision/latest/scale-to-width-down/185?cb=20211221231648
+
+Character: Kaedehara Kazuha
+Rarity: 5 Stars
+Weapon: Sword
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png/revision/latest/scale-to-width-down/185?cb=20210623063513
+
+Character: Eula
+Rarity: 5 Stars
+Weapon: Claymore
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092858
+
+Character: Yanfei
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png/revision/latest/scale-to-width-down/185?cb=20210422063525
+
+Character: Rosaria
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png/revision/latest/scale-to-width-down/185?cb=20220601032845
+
+Character: Hu Tao
+Rarity: 5 Stars
+Weapon: Polearm
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png/revision/latest/scale-to-width-down/185?cb=20210228210611
+
+Character: Xiao
+Rarity: 5 Stars
+Weapon: Polearm
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214012045
+
+Character: Ganyu
+Rarity: 5 Stars
+Weapon: Bow
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png/revision/latest/scale-to-width-down/185?cb=20230519012425
+
+Character: Albedo
+Rarity: 5 Stars
+Weapon: Sword
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png/revision/latest/scale-to-width-down/185?cb=20231214222053
+
+Character: Zhongli
+Rarity: 5 Stars
+Weapon: Polearm
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213163026
+
+Character: Xinyan
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213163013
+
+Character: Tartaglia
+Rarity: 5 Stars
+Weapon: Bow
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213163935
+
+Character: Diona
+Rarity: 4 Stars
+Weapon: Bow
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092355
+
+Character: Klee
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214011911
+
+Character: Diluc
+Rarity: 5 Stars
+Weapon: Claymore
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092341
+
+Character: Mona
+Rarity: 5 Stars
+Weapon: Catalyst
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png/revision/latest/scale-to-width-down/185?cb=20220601033558
+
+Character: Keqing
+Rarity: 5 Stars
+Weapon: Sword
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213162751
+
+Character: Jean
+Rarity: 5 Stars
+Weapon: Sword
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png/revision/latest/scale-to-width-down/185?cb=20220602180528
+
+Character: Venti
+Rarity: 5 Stars
+Weapon: Bow
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214011949
+
+Character: Qiqi
+Rarity: 5 Stars
+Weapon: Sword
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png/revision/latest/scale-to-width-down/185?cb=20220316020612
+
+Character: Traveler
+Rarity: 5 Stars
+Weapon: Sword
+Element:  Element Unaligned
+https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Lumine_Icon.png/revision/latest/scale-to-width-down/185?cb=20231214221939
+
+Character: Amber
+Rarity: 4 Stars
+Weapon: Bow
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213161233
+
+Character: Bennett
+Rarity: 4 Stars
+Weapon: Sword
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091856
+
+Character: Xiangling
+Rarity: 4 Stars
+Weapon: Polearm
+Element: Pyro
+https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214011301
+
+Character: Barbara
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091800
+
+Character: Xingqiu
+Rarity: 4 Stars
+Weapon: Sword
+Element: Hydro
+https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214012057
+
+Character: Beidou
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215091828
+
+Character: Fischl
+Rarity: 4 Stars
+Weapon: Bow
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092945
+
+Character: Lisa
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213163538
+
+Character: Razor
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Electro
+https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214011936
+
+Character: Sucrose
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Anemo
+https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png/revision/latest/scale-to-width-down/185?cb=20210213163209
+
+Character: Chongyun
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png/revision/latest/scale-to-width-down/185?cb=20231215092204
+
+Character: Kaeya
+Rarity: 4 Stars
+Weapon: Sword
+Element: Cryo
+https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214011902
+
+Character: Ningguang
+Rarity: 4 Stars
+Weapon: Catalyst
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png/revision/latest/scale-to-width-down/185?cb=20220210040239
+
+Character: Noelle
+Rarity: 4 Stars
+Weapon: Claymore
+Element: Geo
+https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png/revision/latest/scale-to-width-down/185?cb=20210214011929
+
